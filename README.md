@@ -25,8 +25,7 @@ Algumas das ferramentas e tecnologias que mais uso:
 ## 📫 Contato
 
 - **Email**: [lyraportvgvesa@gmail.com](mailto:lyraportvgvesa@gmail.com) / [amsevero@outlook.com](mailto:amsevero@outlook.com)
-- **WhatsApp**: [Clique aqui para me chamar no WhatsApp](https://wa.me/5562983384847)
-
+- **WhatsApp**: [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304CC52?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5562983384847)
 
 ---
 
