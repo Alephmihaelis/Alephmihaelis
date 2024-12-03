@@ -20,4 +20,4 @@ Aqui estão algumas das ferramentas e tecnologias que mais utilizo:
 
 - Email: lyraportvgvesa@gmail.com / amsevero@outlook.com
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alephmihaelis&show_icons=true&hide_title=true)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alephmihaelis&show_icons=true&hide_title=true&theme=dark)
