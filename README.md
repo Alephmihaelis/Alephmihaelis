@@ -16,7 +16,7 @@ Algumas das ferramentas e tecnologias que mais uso:
 - **Frameworks**: Flask
 - **Bancos de Dados**: MySQL
 
-## 📫 Como me encontrar
+## 📫 Contato
 
 - Email: lyraportvgvesa@gmail.com / amsevero@outlook.com
 
