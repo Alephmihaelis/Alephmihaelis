@@ -13,7 +13,5 @@
 
 <div align="center">
 <h3> Certificações Cisco em Cibersegurança:</h4>
-<ul>
-    <li><a href="https://www.credly.com/users/alefe-feio" target="_blank">Meus badges Credly</a></li>
-</ul>
+<a href="https://www.credly.com/users/alefe-feio" target="_blank">Meus badges Credly</a>
 </div>
