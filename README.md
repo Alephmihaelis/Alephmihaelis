@@ -1,18 +1,17 @@
-# Olá! 👋
+# Olá! Meu nome é **Álefe** e estudo para ser desenvolver fullstack!
 
-Meu nome é **Álefe**.  
-Sou um programador em formação e, atualmente, estudo **Python** no **SENAC** de Campo Grande, no **Rio de Janeiro**.
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 🎓 Estudo **Python** e **Cybersegurança**.
-- ⚡ **Curiosidade**: Gosto (muito!) de **Latim**.
+Sou um desenvolvedor em formação e, atualmente, estudo **Python** no **SENAC** de Campo Grande, no **Rio de Janeiro**.
 
 ---
 
-## 🚀 Tecnologias que uso
+## Sobre mim
+
+-  Estudo **Python** e **Cybersegurança**.
+-  **Curiosidade**: Gosto (muito!) de **Latim**.
+
+---
+
+## Tecnologias que uso
 
 Algumas das ferramentas e tecnologias que mais uso:
 
@@ -22,14 +21,14 @@ Algumas das ferramentas e tecnologias que mais uso:
 
 ---
 
-## 📫 Contato
+## Contatos
 
 - **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:amsevero@outlook.com)
 - **WhatsApp**: [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2304CC52?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5562983384847)
 
 ---
 
-## 🏅 Minhas Certificações
+## Minhas Certificações
 
 ### Certificações **Cisco**
 
@@ -41,6 +40,6 @@ Algumas das ferramentas e tecnologias que mais uso:
 
 ---
 
-## 📊 Meu status no GitHub
+## Meu status no GitHub
   ![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alephmihaelis&show_icons=true&hide_title=true&theme=dark&width=400)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alephmihaelis&layout=compact&theme=dark&width=400)
