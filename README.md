@@ -1,4 +1,4 @@
-# Olá! Meu nome é **Álefe** e estudo para ser desenvolver fullstack!
+# Olá! Meu nome é **Álefe** e estudo para desenvolvimento fullstack!
 
 Sou um desenvolvedor em formação e, atualmente, estudo **Python** no **SENAC** de Campo Grande, no **Rio de Janeiro**.
 
