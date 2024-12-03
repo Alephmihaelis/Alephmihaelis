@@ -10,7 +10,7 @@ Sou um programador em formação, e atualmente estudo Python no SENAC de Campo G
 
 ## 🚀 Tecnologias que uso
 
-Aqui estão algumas das ferramentas e tecnologias que mais utilizo:
+Algumas das ferramentas e tecnologias que mais uso:
 
 - **Linguagens de Programação**: Python
 - **Frameworks**: Flask
