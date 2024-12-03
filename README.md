@@ -1,10 +1,10 @@
-<div align="center">
+
   # Olá! Meu nome é **Álefe** e estudo para desenvolvimento fullstack!
 
 Sou um desenvolvedor em formação e, atualmente, estudo **Python** no **SENAC** de Campo Grande, no **Rio de Janeiro**.
 
 ---
-
+<div align="center">
 ## Tecnologias que mais uso
 
 - **Linguagens de Programação**: Python
