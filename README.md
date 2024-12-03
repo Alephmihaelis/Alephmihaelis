@@ -1,3 +1,4 @@
+<div align="center">
 # Olá! Meu nome é **Álefe** e estudo para desenvolvimento fullstack!
 
 Sou um desenvolvedor em formação e, atualmente, estudo **Python** no **SENAC** de Campo Grande, no **Rio de Janeiro**.
@@ -42,3 +43,4 @@ Algumas das ferramentas e tecnologias que mais uso:
 ## Meu status no GitHub
   ![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alephmihaelis&show_icons=true&hide_title=true&theme=dark&width=400)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alephmihaelis&layout=compact&theme=dark&width=400)
+</div>
