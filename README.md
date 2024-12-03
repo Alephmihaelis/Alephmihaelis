@@ -5,13 +5,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alephmihaelis&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<h4> Contatos:</h4>
+<h3>Contatos:</h3>
 <div align="center">
       <a href="mailto:amsevero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
       <a href="https://api.whatsapp.com/send?phone=5562983384847" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-<h4> Certificações **Cisco** em **Cibersegurança**:</h4>
+<h3> Certificações Cisco em Cibersegurança:</h4>
 <ul>
     <li><a href="https://www.credly.com/users/alefe-feio" target="_blank">Meus badges Credly</a></li>
 </ul>
