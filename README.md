@@ -7,4 +7,6 @@
 
 #### Contatos:
 <div align="center">
+      <a href="mailto:amsevero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://api.whatsapp.com/send?phone=5562983384847" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
