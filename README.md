@@ -11,4 +11,7 @@
       <a href="https://api.whatsapp.com/send?phone=5562983384847" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-#### Certificações **Cisco** em **Cibersegurança**
+#### Certificações **Cisco** em **Cibersegurança**:
+<ul>
+    <li>><a href="https://www.credly.com/users/alefe-feio" target="_blank">Meus badges Credly</a></li>
+</ul>
