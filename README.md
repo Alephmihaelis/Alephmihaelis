@@ -13,8 +13,8 @@
 
 #### Certificações **Cisco**
 <div style="display: flex; justify-content: center; gap: 20px;">
-    #### 1. [Introdução à Cibersegurança](https://www.credly.com/badges/ce4d7208-417d-4c94-82e1-77b8afa5113e)
+    <h4> 1. [Introdução à Cibersegurança](https://www.credly.com/badges/ce4d7208-417d-4c94-82e1-77b8afa5113e)</h4>
 ![Introdução à Cibersegurança](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
-    #### 2. [Segurança de EndPoint](https://www.credly.com/badges/b84f8353-a204-4873-99b7-470dfe37e8f7)
+    <h4> 2. [Segurança de EndPoint](https://www.credly.com/badges/b84f8353-a204-4873-99b7-470dfe37e8f7)</h4>
 ![Segurança de EndPoint](https://images.credly.com/size/100x100/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)
 </div>
