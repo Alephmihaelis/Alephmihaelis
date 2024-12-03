@@ -7,7 +7,6 @@ Sou um desenvolvedor em formação e, atualmente, estudo **Python** no **SENAC**
 ## Sobre mim
 
 -  Estudo **Python** e **Cybersegurança**.
--  **Curiosidade**: Gosto (muito!) de **Latim**.
 
 ---
 
