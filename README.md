@@ -13,5 +13,5 @@
 
 #### Certificações **Cisco** em **Cibersegurança**:
 <ul>
-    <li>><a href="https://www.credly.com/users/alefe-feio" target="_blank">Meus badges Credly</a></li>
+    <li><a href="https://www.credly.com/users/alefe-feio" target="_blank">Meus badges Credly</a></li>
 </ul>
