@@ -1,4 +1,4 @@
-## <div align="center"> Olá! Meu nome é Álefe e sou desenvolvedor Python fullstack<br>em formação pelo SENAC-RJ.
+## <div align="center"> Olá! Meu nome é Álefe e sou desenvolvedor Python fullstack<br> pelo SENAC-RJ.
 </div>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alephmihaelis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
